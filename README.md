@@ -1,5 +1,5 @@
 # Card-Deck
-Card Game built with SwiftUI
+IOS Card Game built with Swift using the SwiftUI
 
 # Application Uses:
 - SwiftUI
